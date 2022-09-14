@@ -25,9 +25,7 @@
   <a href="https://www.codecademy.com/profiles/beta4578272800" target="_blank"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" target="_blank"></a>
 </div>
     
-<br>
-    
-![Snake animation](https://github.com/saraesabbagh/saraesabbagh/blob/output/github-contribution-grid-snake.svg)
+
   
  
 
