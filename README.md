@@ -18,11 +18,16 @@
   <img align="center" alt="Tay-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Tay-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><br>
 <br>
+
 <div>
  	<a href="https://www.linkedin.com/in/sara-sabbagh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.codewars.com/users/Saraesabbagh" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
   <a href="https://www.codecademy.com/profiles/beta4578272800" target="_blank"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" target="_blank"></a>
 </div>
+    
+<br>
+    
+![Snake animation](https://github.com/saraesabbagh/saraesabbagh/blob/output/github-contribution-grid-snake.svg)
   
  
 
