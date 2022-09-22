@@ -1,4 +1,4 @@
-### Hi there, Sara Sabbagh here! 👋
+### Hi, Sara Sabbagh here! 👋
 
 
 🔭 I’m currently working on my portfolio. <br>
