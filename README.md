@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on my portfolio. <br>
 🌱 I’m currently learning React and Typescript.<br>
-🤔 I’m looking for help with entry and junior level positions<br>
+😄 Lucky enough to have found a junior fullstack position with Wondr Medical<br>
 😄 Pronouns: she/her/hers<br>
 ⚡ Fun fact: I used to run a vegan toastie festival tent!<br>
 
